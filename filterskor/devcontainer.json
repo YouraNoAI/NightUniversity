@@ -1,0 +1,10 @@
+"portsAttributes": {
+  "3000": {
+    "label": "React Client",
+    "onAutoForward": "openBrowser"
+  },
+  "5000": {
+    "label": "Server API",
+    "onAutoForward": "notify"
+  }
+}
